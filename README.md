@@ -1,6 +1,6 @@
 # Social Links Card
 
-This is a Social Links Card component built with HTML & CSS. I try to solve a challenge by using new concepts in CSS to level up my CSS game.
+This is a Social Links Card component built with HTML & CSS. I try to solve a challenge by using new concepts in CSS to level up my CSS game. [View Project](https://keenyateesh19.github.io/Social-Links-Component/)
 
 ## Table of Contents
 - [Overview](#overview)
